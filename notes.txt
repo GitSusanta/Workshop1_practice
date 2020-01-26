@@ -1,0 +1,21 @@
+To Create React package
+------------------------------------
+npm i -g create-react-app
+=========================================
+
+git config --global user.email "susanta.git@gmail.com"
+git config --global user.name "Susanta"
+
+npx -v
+==========================================
+
+To Create React package
+-----------------------------------------
+npx create-react-app my-first-app
+==========================================
+
+npm start
+======================================
+
+Todo
+React app in different port ?
