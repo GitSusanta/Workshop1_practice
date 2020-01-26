@@ -1,21 +1,33 @@
-To Create React package
-------------------------------------
+create-react-app is an npm package
+----------------------------------------
 npm i -g create-react-app
-=========================================
-
-git config --global user.email "susanta.git@gmail.com"
-git config --global user.name "Susanta"
 
 npx -v
-==========================================
+********************************************
 
 To Create React package
 -----------------------------------------
 npx create-react-app my-first-app
-==========================================
 
+create-react-app is a generator. npx goes to the internet,
+downloading the package temporarily so it could execute it (npx). What you get (and want) is the output, 
+which is saved locally, 
+where you had run the command
+***********************************************
+
+To Start the Server
+------------------------------------------------
 npm start
-======================================
+**********************************************
+
+Git Crdenetials
+-------------------------------------------------
+git config --global user.email "susanta.git@gmail.com"
+git config --global user.name "Susanta"
+
+GitSusanta/susanta.git@gmail.com/GitHub@123
+********************************************************
+
 
 Todo
 React app in different port ?
