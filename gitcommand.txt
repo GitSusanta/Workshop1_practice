@@ -2,3 +2,7 @@ git status
 git add .
 git commit -m "test"
 git push
+
+U-untracked
+M-Modified
+A-Added
