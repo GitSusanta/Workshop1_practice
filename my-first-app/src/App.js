@@ -10,6 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <C1 />
         <C2 country="India" state="WB"/>
+        <C2 country="UK" state="London">"Hi! I am in London"</C2>
         <a
           className="App-link"
           href="https://reactjs.org"

@@ -18,6 +18,7 @@ function C2(props) {
     return (
         <div>
             {props.country}, {props.state}
+            <p>{props.children}</p>
         </div>        
     );
 }
