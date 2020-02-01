@@ -28,7 +28,12 @@ git config --global user.name "Susanta"
 GitSusanta/susanta.git@gmail.com/GitHub@123
 ********************************************************
 
+props is an object, is giving us access to our attributes , which we pass to our own components
+
 Todo
 React app in different port ?
-
 props.children
+state property(applicable only in class component)
+props
+hooks(it's collection of functions of react , hence you can use it inside the functional components)
+confusion in useState
